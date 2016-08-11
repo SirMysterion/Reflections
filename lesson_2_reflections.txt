@@ -10,6 +10,9 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  check status of the staging area and make sure that anything in it is supposed to be 
+  in the same commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
