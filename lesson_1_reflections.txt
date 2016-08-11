@@ -1,0 +1,39 @@
+diff -u file.old file.new
+
+this is the command to see diff
+
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Very quick way to find line diffrences. will have to remeber this tool for other stuff
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    espessialy while sharing you can see changes on  line by line and who changed what
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro's being in a colabertive sence you can masache the code but not effect others
+    Con's being that you should save regularly personally
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    class's and pluggins of code part of one save but diffrent files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    see who changed what and what changed
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    see the answer about killing code but not affecting anything
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    android dev
