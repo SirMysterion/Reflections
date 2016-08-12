@@ -31,3 +31,9 @@ the diagram the way we do?
 
 What are the pros and cons of Gits automatic merging vs. always doing merges
 manually?
+
+   pro's being that it will save a lot of work with miniaml effort to see the 
+   changes espesialy with colabertave effort with lot's of code 
+   con's being that you can still have issues with auto merging and bugs
+   such as the code changed into a function. the onwly way they noticed was
+   that the code confliced by one line...
